@@ -1,5 +1,6 @@
 # Autor: Thiago Costa Pereira
 # Email: thiago.devpython@gmail.com
+# Linkdedin: https://www.linkedin.com/in/thiago-costa-pereira-b650b0228/
 
 
 #  Passo 1: importar bibliotecas que irei usar
